@@ -91,7 +91,7 @@
                     "-b:v {bitrate}k",
                     "-maxrate {bitrate}k",
                     "-bufsize {bitrate}k",
-                    "-s 240x160",
+                    "-s 427x240",
                     "-r {fps}",
                     "-g {gop}",
                     "-pix_fmt yuv420p",
@@ -117,7 +117,7 @@
                     "-b:v {bitrate}k",
                     "-maxrate {bitrate}k",
                     "-bufsize {bitrate}k",
-                    "-s 240x160",
+                    "-s 427x240",
                     "-r {fps}",
                     "-x265-params keyint={gop}",
                     "-vsync 1"
