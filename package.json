@@ -5,7 +5,8 @@
   "author": "datarhei.org",
   "repository": {
     "type": "git",
-    "url": "git://github.com/datarhei/restreamer.git"
+    "url": "git://github.com/python-911/restreamer.git"
+   
   },
   "license": "Apache-2.0",
   "scripts": {
